@@ -86,7 +86,7 @@ export default function Mentors() {
               backgroundColor: 'transparent',
               display: "flex",
               flexDirection: "column",
-              justifyContent: "space-between"
+              justifyContent: "flex-start"
             }}
           >
             <CardMedia 

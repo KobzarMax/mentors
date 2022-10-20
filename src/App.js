@@ -39,7 +39,9 @@ function App() {
           Profile of profiles
         </Typography>
       </Box>
-      <Box>
+      <Box sx={{
+        paddingBottom: "176px",
+      }}>
         <Mentors/>
       </Box>
     </Container>
